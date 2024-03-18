@@ -1,0 +1,188 @@
+{
+  "Ejercicios": {
+    "Lunes": [
+      {
+        "Ejercicio": "Sentadillas con mancuerna",
+        "Series": 4,
+        "Repeticiones": "12 repeticiones",
+        "Gif": "https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif"
+      },
+      {
+        "Ejercicio": "Press de hombros con mancuerna",
+        "Series": 4,
+        "Gif": "https://i.pinimg.com/originals/7f/3f/af/7f3faf8ddac9fdcf45da825094231a6e.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Peso muerto con mancuerna",
+        "Series": 4,
+        "Gif": "https://static.wixstatic.com/media/c94d75_f4a352d248f2479ebee2a133910f6f08~mv2.gif",
+        "Repeticiones": "10 repeticiones"
+      },
+      {
+        "Ejercicio": "Curl de bíceps con mancuerna",
+        "Series": 3,
+        "Gif": "https://i.pinimg.com/originals/13/1a/5d/131a5dc1f3371e3ba6b18a84f854a0fc.gif",
+        "Repeticiones": "12 repeticiones por brazo"
+      },
+      {
+        "Ejercicio": "Press de pecho con mancuerna",
+        "Notas": "puedes hacerlo en el suelo",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/menshealth-uk/main/assets/bench-press-dumbell.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Elevaciones laterales con mancuerna",
+        "Notas": "puedes usar los lastres",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/hombros-1612349342.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Plancha",
+        "Series": 3,
+        "Gif": "https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif",
+        "Repeticiones": "3 series de 30 segundos"
+      }
+    ],
+    "Martes": [
+      {
+        "Ejercicio": "Sentadillas con mancuerna",
+        "Series": 4,
+        "Repeticiones": "12 repeticiones",
+        "Gif": "https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif"
+      },
+      {
+        "Ejercicio": "Press de hombros con mancuerna",
+        "Series": 4,
+        "Gif": "https://i.pinimg.com/originals/7f/3f/af/7f3faf8ddac9fdcf45da825094231a6e.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Peso muerto con mancuerna",
+        "Series": 4,
+        "Gif": "https://static.wixstatic.com/media/c94d75_f4a352d248f2479ebee2a133910f6f08~mv2.gif",
+        "Repeticiones": "10 repeticiones"
+      },
+      {
+        "Ejercicio": "Curl de bíceps con mancuerna",
+        "Series": 3,
+        "Gif": "https://i.pinimg.com/originals/13/1a/5d/131a5dc1f3371e3ba6b18a84f854a0fc.gif",
+        "Repeticiones": "12 repeticiones por brazo"
+      },
+      {
+        "Ejercicio": "Tríceps francés con lastre",
+        "Notas": "puedes sostener un lastre con ambas manos",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/triceps-mancuernas-1552913823.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Crunches",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/crunch-1457102356.gif",
+        "Repeticiones": "15 repeticiones"
+      },
+      {
+        "Ejercicio": "Russian twists con lastre",
+        "Series": 3,
+        "Notas": "(puedes sostener un lastre)",
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/08/russiantwistfeetraised-1472133891.gif?resize=1200:*",
+        "Repeticiones": "15 repeticiones por lado"
+      }
+    ],
+    "Miércoles": [
+      {
+        "Ejercicio": "Cardio",
+        "Gif": "https://media3.giphy.com/media/ViMvGT3vy0ZerBxwKY/200w.gif?cid=6c09b952xxrcifa508ssuxdm06epxkuxey1y62amu57rvciv&ep=v1_gifs_search&rid=200w.gif&ct=g",
+        "Notas": "Realiza una caminata, bicicleta estática o cualquier otra forma de ejercicio cardiovascular ligero durante 30-45 minutos."
+      }
+    ],
+    "Jueves": [
+      {
+        "Ejercicio": "Zancadas con mancuerna",
+        "Notas": "puedes sostener una mancuerna en cada mano",
+        "Series": 4,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/zancadas-1574679139.gif",
+        "Repeticiones": "12 repeticiones por pierna"
+      },
+      {
+        "Ejercicio": "Press de pecho con mancuerna",
+        "Notas": "puedes hacerlo en el suelo",
+        "Series": 4,
+        "Gif": "https://hips.hearstapps.com/menshealth-uk/main/assets/bench-press-dumbell.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Remo con una mano con mancuerna",
+        "Series": 4,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/dumbbell-single-arm-row-1547729333.gif",
+        "Repeticiones": "12 repeticiones por brazo"
+      },
+      {
+        "Ejercicio": "Elevaciones frontales con mancuerna",
+        "Series": 3,
+        "Gif": "https://i0.wp.com/entrenandoc.com/wp-content/uploads/2023/07/ELEVACIONES-FRONTALES-ALTERNAS-CON-MANCUERNAS.gif?fit=360%2C360&ssl=1",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Elevaciones laterales con mancuerna",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/hombros-1612349342.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Plancha lateral con elevación de brazo",
+        "Notas": "puedes sostener un lastre en la mano superior",
+        "Series": 3,
+        "Gif": "https://i.pinimg.com/originals/0a/19/95/0a19954ee641f0b08c34954d9251bab1.gif",
+        "Repeticiones": "15 segundos por lado"
+      }
+    ],
+    "Viernes": [
+      {
+        "Ejercicio": "Squats (sentadillas) con lastre",
+        "Series": 4,
+        "Gif": "https://static.wixstatic.com/media/c94d75_5da40ebd254249df861fb7cd7070fbcb~mv2.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Peso muerto con lastre",
+        "Series": 4,
+        "Gif": "https://static.wixstatic.com/media/c94d75_f4a352d248f2479ebee2a133910f6f08~mv2.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Press de hombros con lastre",
+        "Series": 4,
+        "Gif": "https://i.pinimg.com/originals/7f/3f/af/7f3faf8ddac9fdcf45da825094231a6e.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Curl de bíceps con lastre",
+        "Series": 3,
+        "Gif": "https://i.pinimg.com/originals/13/1a/5d/131a5dc1f3371e3ba6b18a84f854a0fc.gif",
+        "Repeticiones": "12 repeticiones por brazo"
+      },
+      {
+        "Ejercicio": "Tríceps francés con lastre",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/triceps-mancuernas-1552913823.gif",
+        "Repeticiones": "12 repeticiones"
+      },
+      {
+        "Ejercicio": "Crunches",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/crunch-1457102356.gif",
+        "Repeticiones": "15 repeticiones"
+      },
+      {
+        "Ejercicio": "Russian twists con lastre",
+        "Series": 3,
+        "Gif": "https://hips.hearstapps.com/hmg-prod/images/workouts/2016/08/russiantwistfeetraised-1472133891.gif?resize=1200:*",
+        "Repeticiones": "15 repeticiones por lado"
+      }
+    ]
+  }
+}
